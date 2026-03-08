@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi! I'm Leonardo Cunha 👋
 
+I'm a technology enthusiast interested in automation, data analysis, and building solutions to optimize processes.
+
+I have experience working with tools like Power Apps and data manipulation, and I’m currently studying Python and Data Science to expand my skills in the data field.
+
+Here on GitHub I share projects, experiments, and studies related to programming, automation, and data analysis.
 <!--
 **LeonardoSCunha/LeonardoSCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
