@@ -6,13 +6,12 @@ Currently expanding my skills in programming and data, exploring tools and techn
 
 ---
 
-## 🚀 About Me
+## 📚 Currently Learning
 
-- Interested in **Automation and Data Analysis**
-- Experience building solutions with **Power Apps**
-- Studying **Python** and **Data Science**
-- Passionate about solving problems with technology
-
+- Post Degree Artificial Intelligence and Machine Learning
+- Bachalors in Data Science
+- Bachalors in Information Technology
+  
 ---
 
 ## 🛠 Technologies & Tools
@@ -23,31 +22,3 @@ Currently expanding my skills in programming and data, exploring tools and techn
 - Power BI
 - Excel
 - Git
-
----
-
-## 📚 Currently Learning
-
-- Data Analysis
-- Machine Learning
-- Data Visualization
-- Data Science workflows
-
----
-
-## 📂 Projects
-
-Here you will find projects related to:
-
-- Data Analysis
-- Automation
-- Data Visualization
-- Machine Learning experiments
-
-More projects coming soon 🚀
-
----
-
-## 📫 Contact
-
-- LinkedIn: (add your LinkedIn link)
