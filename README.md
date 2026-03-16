@@ -16,9 +16,26 @@ Currently expanding my skills in programming and data, exploring tools and techn
 
 ## 🛠 Technologies & Tools
 
+**Languages**
 - Python
 - SQL
-- Power Apps
+- JavaScript (basic)
+
+**Data & Analytics**
+- Pandas
+- NumPy
+- Matplotlib
 - Power BI
-- Excel
-- Git
+
+**Automation**
+- Python scripting
+- API integration
+- Data extraction
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/seu-perfil
+- GitHub: https://github.com/LeonardoSCunha
+- Email: seuemail@email.com
