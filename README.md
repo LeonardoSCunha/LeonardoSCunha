@@ -36,6 +36,6 @@ Currently expanding my skills in programming and data, exploring tools and techn
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/seu-perfil
-- GitHub: https://github.com/LeonardoSCunha
-- Email: seuemail@email.com
+- LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/leonardo-santos-cunha/)
+- GitHub: [https://github.com/LeonardoSCunha](https://github.com/LeonardoSCunha)
+- Email: leonardosantosdacunha@gmail.com
